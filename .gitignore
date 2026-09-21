@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+build/
+dist/
+experiments/
+experments/
+GUST-Flow/
+AGENTS.md
+agents.md
+tests/
+.pytest_cache/
+aorta_retro_parameter_study.ipynb
+Carotid_Center008_GE_30T_Premier_Exam44595_neck_fold5_pugsflow_training.gif
