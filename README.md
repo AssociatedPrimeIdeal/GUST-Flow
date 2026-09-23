@@ -2,6 +2,8 @@
 
 Gaussian-based unsupervised phase unwrapping for 4D Flow MRI.
 
+![GUST-Flow graphical abstract](./graphicabstract.png)
+
 ## Installation
 
 ```bash
